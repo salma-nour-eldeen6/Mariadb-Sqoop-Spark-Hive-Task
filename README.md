@@ -29,6 +29,6 @@ start-yarn.sh
 sudo systemctl start hue
 ```
 
-Check NameNode UI: http://<namenode-host>:9870
-Check YARN UI: http://<resourcemanager-host>:8088
-Hue UI: http://<host>:8888
+- Check NameNode UI: http://<namenode-host>:9870
+- Check YARN UI: http://<resourcemanager-host>:8088
+- Hue UI: http://<host>:8888
